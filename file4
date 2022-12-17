@@ -1,0 +1,8 @@
+[master (root-commit) aaa014c] hi, bangalore
+ 6 files changed, 5 insertions(+)
+ create mode 100644 .gitignore
+ create mode 160000 bakery-swap-dish
+ create mode 100644 file1
+ create mode 100644 file2
+ create mode 100644 file3
+ create mode 100644 file4
