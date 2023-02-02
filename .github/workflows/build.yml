@@ -24,6 +24,3 @@ jobs:
         
       - name: Run tests
         run: yarn test
-        
-    fetch-depth: 0
-    -uses: docker://sonarsource/sonar-scanner-cli:latest
